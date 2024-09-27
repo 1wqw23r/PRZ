@@ -1,0 +1,6 @@
+Name= input("Name=")  
+Age= int (input("Age="))
+Loc= input ("Loc=")
+print("Ваши фамилия, имя:", Name)
+print ("Ваш возраст:", Age)
+print ("Вы живете в:", Loc)
